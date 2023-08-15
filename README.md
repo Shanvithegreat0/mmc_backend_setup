@@ -35,9 +35,9 @@ Download the following tools
     
     ![pgAdmin 4 15-08-2023 06_58_22](https://github.com/Shanvithegreat0/mmc_backend_setup/assets/103589784/e596a95b-e71b-4fd3-a008-bd99634e1925)
 
-- Give a name to you database , For eg ~ newdb , mydb , etc.
+- Give a name to your database , For eg ~ newdb , mydb , etc.
 
-- Leave rest to default and save you Database
+- Leave rest to default and save your Database
 
 - Now go to Schemas -> Table -> User -> Query tool
 
@@ -58,7 +58,7 @@ Download the following tools
    -
    - Go to [This repo](https://github.com/rohit-rambade/mmc-backend) and Clone it on your local device
 
-   - Open the file on VSC or any other code editor
+   - Open the cloned repo folder on VSC or any other code editor
 
    - Open the new Terminal and run the command _npm i_
 
